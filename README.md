@@ -11,6 +11,4 @@ Technical skills: Python · MATLAB · MySQL · AngularJS · Figma · Canva · Go
 
 When I’m not working on a project, you’ll find me diving into the next big innovation trend—or unwinding with photography, cooking/baking, badminton, or travel.
 
-Fun fact: I once learned how to sharpen a pencil at Trader Joe’s.
-
 Let’s connect: [LinkedIn](https://www.linkedin.com/in/hemalkurani/)
